@@ -19,7 +19,7 @@ The system will allow a user to generate an image of the component or the page b
 
 ### Pipeline description
 
-Step #1) Input mockup layout in the SVG format. It can be user-created or text-based generation using with [[Challenge #1 | Text-to-layout generator](https://github.com/neurons-lab/Penpot-C1_Design-Co-pilot/tree/main/Approach%233-New_layout_generation)]
+Step #1) Input mockup layout in the SVG format. It can be user-created or text-based generation using with [Challenge #1 | Text-to-layout generator](https://github.com/neurons-lab/Penpot-C1_Design-Co-pilot/tree/main/Approach%233-New_layout_generation)
     
 ![Screenshot 2023-06-19 at 14.54.24.png](reports/figures/Screenshot_2023-06-19_at_14.54.24.png)
 
@@ -37,20 +37,20 @@ Step #3) User pick several inspiring options for further SVG re-implementation
 - Input: text prompt
 - Output: layouts and various complete designs
 - Dataset:
-    - Text prompt ↔ layout pairs: follow UI description [[Paper](references/research_papers/UIDiscription.pdf)] to create
+    - Text prompt ↔ layout pairs: follow UI description [[Paper](references/research_papers/UIDescription.pdf)] to create
     - layout ↔ complete design pairs: [Rico’17](https://www.kaggle.com/datasets/onurgunes1993/rico-dataset)
 
 ### Relevant works**
 
 [Research]
 
-- Apple`21 about parsing layout into components [[Website](https://blog.ml.cmu.edu/2021/12/10/understanding-user-interfaces-with-screen-parsing/)]
+- Apple’21 proposed “parsing layout into components” [[Website](https://blog.ml.cmu.edu/2021/12/10/understanding-user-interfaces-with-screen-parsing/)]
 
 ![1ODBmbHSwFRMgGTreeZLegw.gif](reports/figures/1ODBmbHSwFRMgGTreeZLegw.gif)
 
 - LayoutDM [[Github](https://cyberagentailab.github.io/layout-dm/)]
 - BoostingGUI :first tries on controllable page-generation [[Paper](references/research_papers/BoostingGUI.pdf)]
-- UI description [[Paper](references/research_papers/UIDiscription.pdf)]
+- UI description [[Paper](references/research_papers/UIDescription.pdf)]
 - Text-to-image generator:
    - Latent Diffusion Model [[Paper](references/research_papers/LDM.pdf)] [[Github](https://github.com/CompVis/latent-diffusion)]
 

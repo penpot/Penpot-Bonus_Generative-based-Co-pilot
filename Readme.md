@@ -40,7 +40,7 @@ Step #3) User pick several inspiring options for further SVG re-implementation
     - Text prompt ↔ layout pairs: follow UI description [[Paper](references/research_papers/UIDescription.pdf)] to create
     - layout ↔ complete design pairs: [Rico’17](https://www.kaggle.com/datasets/onurgunes1993/rico-dataset)
 
-### Relevant works**
+### Relevant works
 
 [Research]
 
@@ -67,7 +67,7 @@ Step #3) User pick several inspiring options for further SVG re-implementation
 
 - Microsoft Designer [[Website](https://designer.microsoft.com/)] [[Demo](https://youtu.be/vQK-E_Mzeq0)]
 
-### Pros and Cons**
+### Pros and Cons
     
 🟢 Pros
 

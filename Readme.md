@@ -67,7 +67,7 @@ Step #3) User pick several inspiring options for further SVG re-implementation
 - Editing images:
     - GroundingDINO: regional image editing [[Github](https://github.com/IDEA-Research/GroundingDINO/blob/main/demo/image_editing_with_groundingdino_gligen.ipynb)]
     - Drag-your-GAN [[Website](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)] [[Github](https://github.com/XingangPan/DragGAN)]
-    - Edit Everything [[Paper](references/research_papers/EditEverything.pdf)] [[Github](https://github.com/DefengXie/Edit_Everything)]
+    - Edit Everything [[Paper](https://github.com/penpot/Penpot-C4_Content-Generator/blob/main/Approach%232-Text-to-image_or_Image-to-text_in_whole_design/references/research_papers/EditEverything.pdf)] [[Github](https://github.com/DefengXie/Edit_Everything)]
 
 [Business Solutions]
 

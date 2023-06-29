@@ -58,16 +58,16 @@ Step #3) User pick several inspiring options for further SVG re-implementation
 - BoostingGUI :first tries on controllable page-generation [[Paper](references/research_papers/BoostingGUI.pdf)]
 - UI description [[Paper](references/research_papers/UIDescription.pdf)]
 - Text-to-image generator:
-   - Latent Diffusion Model [[Paper](references/research_papers/LDM.pdf)] [[Github](https://github.com/CompVis/latent-diffusion)]
+   - Latent Diffusion Model [[Paper](https://github.com/penpot/Penpot-C4_Content-Generator/blob/main/Approach%232-Text-to-image_or_Image-to-text_in_whole_design/references/research_papers/LDM.pdf)] [[Github](https://github.com/CompVis/latent-diffusion)]
 
-    - Composable-Diffusion: support compositional text prompt [[Website](references/research_papers/Compositional-Visual-Generation-with-Composable-Diffusion-Models.pdf)] [[Github](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)]
+    - Composable-Diffusion: support compositional text prompt [[Github](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)]
 
     - ControlNet: adding more control by image/sketch [[Paper](references/research_papers/ControlNet.pdf)] [[Github](https://github.com/lllyasviel/ControlNet)] [[WebUI extension](https://github.com/Mikubill/sd-webui-controlnet)]
 
 - Editing images:
     - GroundingDINO: regional image editing [[Github](https://github.com/IDEA-Research/GroundingDINO/blob/main/demo/image_editing_with_groundingdino_gligen.ipynb)]
     - Drag-your-GAN [[Website](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)] [[Github](https://github.com/XingangPan/DragGAN)]
-    - Edit Everything [[paper](references/research_papers/EditEverything.pdf)] [[Github](https://github.com/DefengXie/Edit_Everything)]
+    - Edit Everything [[Paper](references/research_papers/EditEverything.pdf)] [[Github](https://github.com/DefengXie/Edit_Everything)]
 
 [Business Solutions]
 

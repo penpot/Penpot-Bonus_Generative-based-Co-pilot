@@ -4,6 +4,7 @@
 |---------------------------------------------------------------|
 | 💡 Please feel free to share your valuable comments [here](https://github.com/penpot/Penpot-Bonus_Generative-based-Co-pilot/issues/1#issue-1780339544).|
 
+<br>
 
 ## 🔎 Idea overview
 

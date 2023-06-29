@@ -1,5 +1,10 @@
 # Bonus Idea | Generative-based Co-pilot
 
+| 🚀 Help the community improve the Penpot challenge! 🚀    | 
+|---------------------------------------------------------------|
+| 💡 Please feel free to share your valuable comments [here](https://github.com/penpot/Penpot-Bonus_Generative-based-Co-pilot/issues/1#issue-1780339544).|
+
+
 ## 🔎 Idea overview
 
 Due to the limited academic and practical work done on the component and page as SVG generation, we propose the pivot of the idea. 

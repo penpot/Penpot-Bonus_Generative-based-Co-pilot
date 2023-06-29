@@ -1,8 +1,9 @@
 # Bonus Idea | Generative-based Co-pilot
 
-| 🚀 Help the community improve the Penpot challenge! 🚀    | 
+| 🚀 Calling all innovators!  🚀    | 
 |---------------------------------------------------------------|
-| 💡 Please feel free to share your valuable comments [here](https://github.com/penpot/Penpot-Bonus_Generative-based-Co-pilot/issues/1#issue-1780339544).|
+| 💡 We're looking for your creative genius to level up the Penpot challenge. Share your groundbreaking ideas and let's redefine what's possible [here](https://github.com/penpot/Penpot-Bonus_Generative-based-Co-pilot/issues/1#issue-1780339544)! 🔥 |
+
 
 <br>
 

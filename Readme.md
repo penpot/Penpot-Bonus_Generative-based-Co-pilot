@@ -1,4 +1,4 @@
-# Bonus Idea | Generative-based Co-pilot
+# Bonus Challenge | Generative-based Co-pilot
 
 ### 🚀 Calling all innovators!  🚀 
 
@@ -7,9 +7,9 @@ Share your groundbreaking ideas and let's redefine what's possible [here](https:
 
 <br>
 
-## 🔎 Idea overview
+## 🔎 Overview
 
-Due to the limited academic and practical work done on the component and page as SVG generation, we propose the pivot of the idea. 
+Due to the limited academic and practical work done on the component and page as SVG generation, we propose the bonus challenge. 
 
 Instead of generating long SVG text files for each component, we can utilize controllable image generation to **generate the components or page visualization in the existing or target styles.** 
 

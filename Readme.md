@@ -22,7 +22,7 @@ The system will allow a user to generate an image of the component or the page b
 
 | Technology readiness | Risks | Complexity |
 | ----- | ----- | ---------- |
-| <div style="width: 200pt"> 🟡 Some elements exist but require adaptation | <div style="width: 150pt"> 🟠 Higher than average  | <div style="width: 130pt"> 🟠 Moderately complex |
+| <div style="width: 200pt"> 🟡 Some elements exist but require adaptation | <div style="width: 150pt"> 🔴 Higher than average  | <div style="width: 130pt"> 🟡 Moderately complex |
 
 ### Pipeline description
 
